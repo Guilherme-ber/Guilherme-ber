@@ -9,12 +9,10 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
   
   <p>
     🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
-    🚀 Apaixonado por transformar lógica complexa em aplicações funcionais e escaláveis.<br>
-    🏆 100% de aproveitamento em Algoritmos e Estruturas de Dados (AEDS I e II).
   </p>
 
   <p>
