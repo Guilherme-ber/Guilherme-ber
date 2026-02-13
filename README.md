@@ -20,8 +20,6 @@
 
 <br clear="both">
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
 </div>
 
