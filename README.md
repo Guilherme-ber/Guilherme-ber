@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Bernardino! 👋
+# Olá, eu sou o Guilherme Reis! 👋
 
 ### Computer Science Student | Full Stack Developer | Automation Enthusiast
 
@@ -27,7 +27,7 @@
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
