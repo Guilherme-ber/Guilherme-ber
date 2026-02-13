@@ -1,7 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guilherme%20Bernardino&fontSize=70)
-
----
-
 # Olá, eu sou o Guilherme Bernardino! 👋
 
 ### Computer Science Student | Full Stack Developer | BPM Enthusiast
