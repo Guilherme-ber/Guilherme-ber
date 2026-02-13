@@ -5,7 +5,7 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
   
   <p>
     🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
