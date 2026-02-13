@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Bernardino! 👋
 
-### Computer Science Student | Full Stack Developer | BPM Enthusiast
+### Computer Science Student | Full Stack Developer | Automation Enthusiast
 
 ---
 
