@@ -18,11 +18,6 @@
   </p>
 </div>
 
-<br clear="both">
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html,css&count_private=true" />
-</div>
-
 ---
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
@@ -62,6 +57,28 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=trello" width="40" height="40" alt="Trello" />
       <br>Trello
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>🛠️ Daily Tools & Interests</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Desenvolvimento & Organização</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,trello,notion,git,github,postman,discord" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interesses Curiosos 💡</h3>
+      <ul>
+        <li>🤖 Inteligência Artificial & Automação</li>
+        <li>📊 Modelagem de Processos (BPM)</li>
+        <li>📈 Data Science com Python</li>
+        <li>☕ Café e Clean Code</li>
+      </ul>
     </td>
   </tr>
 </table>
