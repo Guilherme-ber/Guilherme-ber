@@ -62,11 +62,11 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Desenvolvimento & Organização</h3>
       <img src="https://skillicons.dev/icons?i=vscode,notion,trello,github,discord,postman" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>💡 Interesses Particulares</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
@@ -75,7 +75,7 @@
         <li>☕ Café e Clean Code</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
     </td>
   </tr>
