@@ -3,22 +3,20 @@
 
 ---
 
-<div align="left">
-  <p>
-    🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
-  </p>
-
-  <p>
-    📫 <b>Como me encontrar:</b><br>
-    <a href="https://www.linkedin.com/in/guilherme-b-reis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/gr.techworks/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </p>
-</div>
-
-<div aling="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="left" height="150" alt="GitHub Stats" />
-</div>
-<br><br><br><br><br><br>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
+      🚀 Focado em desenvolvimento Full Stack e otimização de processos.<br><br>
+      📫 <b>Como me encontrar:</b><br>
+      <a href="https://www.linkedin.com/in/guilherme-b-reis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+      <a href="https://www.instagram.com/gr.techworks/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,42 +25,36 @@
 <table align="left">
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br>C++
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-      <br>Firebase
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" /><br>Firebase
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br>Figma
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva" />
-      <br>Canva
+      <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva" /><br>Canva
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br>
+
+<br clear="both">
+<br>
 
 ---
 
@@ -72,10 +64,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Desenvolvimento & Organização</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,notion,trello,git,github,discord" />
+      <img src="https://skillicons.dev/icons?i=vscode,notion,trello,github,discord,postman" />
     </td>
     <td width="50%" valign="top">
-      <h3>💡Interesses Particulares</h3>
+      <h3>💡 Interesses Particulares</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
         <li>📊 Modelagem de Processos (BPM)</li>
@@ -85,3 +77,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
