@@ -35,7 +35,6 @@
       <h3>🚀 Atualmente estudando...</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
-        <li>📊 Modelagem de Processos (BPM)</li>
         <li>📈 Data Science aplicado</li>
         <li>☕ Práticas de Clean Code</li>
       </ul>
@@ -51,9 +50,5 @@
 
 <div align="center">
   <h3>🛠️ Daily Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,trello,discord,canva,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,trello,discord" />
 </div>
-
-<p align="center">
-  <i>"Transformando café e lógica em sistemas funcionais."</i>
-</p>
