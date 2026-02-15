@@ -56,6 +56,10 @@
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=canva" width="40" height="40" alt="Canva" />
+      <br>Canva
+    </td>
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br>
