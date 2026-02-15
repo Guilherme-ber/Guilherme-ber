@@ -75,9 +75,10 @@
         <li>☕ Café e Clean Code</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+
