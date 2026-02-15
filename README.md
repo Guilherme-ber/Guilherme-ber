@@ -31,7 +31,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🚀 Atualmente estudando...</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
@@ -39,7 +39,7 @@
         <li>☕ Práticas de Clean Code</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>📊 Minhas Linguagens</h3>
       <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
     </td>
