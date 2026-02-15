@@ -17,7 +17,7 @@
 </div>
 
 <div aling="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="left" height="150" alt="GitHub Stats" />
 </div>
 <br><br><br><br><br><br>
 
