@@ -1,5 +1,5 @@
 # Olá, eu sou o Guilherme Reis! 👋
-### Computer Science Student | Full Stack Developer | Automation Enthusiast
+### Computer Science Student | Full Stack Developer & UI/UX Design | Automation Enthusiast
 
 ---
 
