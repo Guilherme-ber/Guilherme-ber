@@ -75,7 +75,7 @@
       <img src="https://skillicons.dev/icons?i=vscode,figma,notion,git,github,discord" />
     </td>
     <td width="50%" valign="top">
-      <h3>Interesses Particulares💡</h3>
+      <h3>💡 Interesses Particulares</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
         <li>📊 Modelagem de Processos (BPM)</li>
