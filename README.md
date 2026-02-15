@@ -56,10 +56,6 @@
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=trello" width="40" height="40" alt="Trello" />
-      <br>Trello
-    </td>
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br>
@@ -72,7 +68,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Desenvolvimento & Organização</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,notion,git,github,discord" />
+      <img src="https://skillicons.dev/icons?i=vscode,notion,trello,git,github,discord" />
     </td>
     <td width="50%" valign="top">
       <h3>💡Interesses Particulares</h3>
