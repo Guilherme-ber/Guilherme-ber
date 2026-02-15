@@ -7,7 +7,7 @@
   <tr>
     <td width="60%" valign="top">
       🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
-      🚀 Focado em desenvolvimento Full Stack e otimização de processos.<br><br>
+      🚀 Atualmente focado em desenvolvimento Full Stack.<br><br>
       📫 <b>Como me encontrar:</b><br>
       <a href="https://www.linkedin.com/in/guilherme-b-reis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
       <a href="https://www.instagram.com/gr.techworks/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
