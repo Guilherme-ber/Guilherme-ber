@@ -5,8 +5,6 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
-  
   <p>
     🎓 Cursando Bacharelado em Ciência da Computação no <b>IFMG - Campus Rio Pomba</b>.<br>
   </p>
@@ -16,6 +14,10 @@
     <a href="https://www.linkedin.com/in/guilherme-b-reis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/gr.techworks/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </p>
+</div>
+
+<div aling="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme-ber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" height="150" alt="GitHub Stats" />
 </div>
 <br><br><br><br><br><br>
 
@@ -71,10 +73,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Desenvolvimento & Organização</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,trello,notion,git,github,postman,discord" />
+      <img src="https://skillicons.dev/icons?i=vscode,figma,notion,git,github,discord" />
     </td>
     <td width="50%" valign="top">
-      <h3>Interesses Curiosos 💡</h3>
+      <h3>Interesses Particulares💡</h3>
       <ul>
         <li>🤖 Inteligência Artificial & Automação</li>
         <li>📊 Modelagem de Processos (BPM)</li>
