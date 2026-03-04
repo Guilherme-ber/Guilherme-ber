@@ -41,7 +41,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 Minhas Linguagens</h3>
-      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber" />
+      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme-ber&layout=compact&theme=tokyonight&hide=html,css" />
     </td>
   </tr>
 </table>
