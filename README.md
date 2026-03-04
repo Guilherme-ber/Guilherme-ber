@@ -50,5 +50,5 @@
 
 <div align="center">
   <h3>🛠️ Daily Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,trello,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,discord" />
 </div>
