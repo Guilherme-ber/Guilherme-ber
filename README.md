@@ -29,18 +29,14 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Atualmente estudando...</h3>
-      <ul>
-        <li>🤖 Inteligência Artificial & Automação</li>
-        <li>📈 Data Science aplicado</li>
-        <li>☕ Práticas de Clean Code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div width="50%" valign="top">
+  <h3>🚀 Atualmente estudando...</h3>
+  <ul>
+    <li>🤖 Inteligência Artificial & Automação</li>
+    <li>📈 Data Science aplicado</li>
+    <li>☕ Práticas de Clean Code</li>
+  </ul>
+</div>
 
 ---
 
