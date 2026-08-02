@@ -50,7 +50,7 @@
       <ul>
         <li>📈 Gestão de Projetos de TI (Metodologias e Certificações)</li>
         <li>🔒 Segurança da Informação & Arquitetura Back-end</li>
-        <li>🤖 Automações avançadas (n8n)</li>
+        <li>🤖 Automações com n8n</li>
       </ul>
     </td>
     <td width="50%" valign="top">
