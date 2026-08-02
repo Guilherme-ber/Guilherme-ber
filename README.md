@@ -26,11 +26,8 @@
 
 > *Aqui estão alguns dos projetos onde apliquei meus conhecimentos na prática:*
 
-*   🏋️ **[ShapeMeApp](Link-para-o-repositorio-ou-site)**: Um Progressive Web App (PWA) focado em treinos de musculação. Atuei na reconstrução de um sistema legado, com forte foco em aprimoramento de segurança e desenvolvimento full stack, entregando uma solução multiplataforma eficiente.
-*   🤖 **[Nome de um projeto de automação ou n8n]**: [Breve descrição de 1 ou 2 linhas sobre o que ele faz e o impacto gerado, ex: Automação criada com Python e n8n para otimizar o fluxo de dados X].
-*   🎨 **[Nome de um projeto UI/UX ou Front-end]**: [Breve descrição focada em Next.js, Tailwind ou Figma].
-
-*(Dica: Fixe (Pin) os repositórios correspondentes no topo do seu perfil do GitHub para facilitar o acesso visual)*
+*   🏋️ **ShapeMeApp** `[Repositório Privado]`: Um Progressive Web App (PWA) focado em treinos de musculação. Atuei na reconstrução de um sistema legado, com forte foco em aprimoramento de segurança e desenvolvimento full stack, entregando uma solução multiplataforma eficiente.
+*   ⛹️ **SIATE** `[Repositório Privado]`: Um PWA construído para a gestão de treinos de basquete. Construí do zero o back-end e front-end do sistema, focando em desenvolver um aplicativo escalável e organizado, além de se adaptar em múltiplas plataformas.
 
 ---
 
@@ -53,13 +50,13 @@
       <ul>
         <li>📈 Gestão de Projetos de TI (Metodologias e Certificações)</li>
         <li>🔒 Segurança da Informação & Arquitetura Back-end</li>
-        <li>🤖 Automações avançadas (n8n e Python)</li>
+        <li>🤖 Automações avançadas (n8n)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Daily Tools</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,discord" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,notion,discord" />
       <br>
       <i>*Também utilizo diariamente Trello e Google Workspace para gestão e organização.</i>
     </td>
