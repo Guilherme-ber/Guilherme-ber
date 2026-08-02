@@ -1,13 +1,14 @@
 # Olá, eu sou o Guilherme Reis! 👋
-### Computer Science Student | Full Stack Developer & UI/UX Design | Automation Enthusiast
+### Estudante de Ciência da Computação | Desenvolvedor Full Stack & UI/UX | Entusiasta em Gestão de Projetos de TI
 
 ---
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      🎓 Bacharelado em Ciência da Computação @ <b>IFMG - Campus Rio Pomba</b>.<br>
-      🚀 Focado em criar soluções eficientes com React, Node.js e Python.<br>
+      🎓 Bacharelando em Ciência da Computação @ <b>IFMG - Campus Rio Pomba</b>.<br>
+      🚀 Experiência com o ciclo completo de desenvolvimento digital (do UI/UX ao deploy) e automação de processos.<br>
+      🎯 <b>Foco Atual:</b> Direcionando estudos para Gestão de Projetos de TI, Back-end e Segurança da Informação.<br>
       🏆 <b>Destaque:</b> 100% de aproveitamento em Algoritmos e Estruturas de Dados (I e II).<br><br>
       📫 <b>Como me encontrar:</b><br>
       <a href="https://www.linkedin.com/in/guilherme-b-reis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -21,25 +22,46 @@
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">🚀 Projetos em Destaque</h2>
+
+> *Aqui estão alguns dos projetos onde apliquei meus conhecimentos na prática:*
+
+*   🏋️ **[ShapeMeApp](Link-para-o-repositorio-ou-site)**: Um Progressive Web App (PWA) focado em treinos de musculação. Atuei na reconstrução de um sistema legado, com forte foco em aprimoramento de segurança e desenvolvimento full stack, entregando uma solução multiplataforma eficiente.
+*   🤖 **[Nome de um projeto de automação ou n8n]**: [Breve descrição de 1 ou 2 linhas sobre o que ele faz e o impacto gerado, ex: Automação criada com Python e n8n para otimizar o fluxo de dados X].
+*   🎨 **[Nome de um projeto UI/UX ou Front-end]**: [Breve descrição focada em Next.js, Tailwind ou Figma].
+
+*(Dica: Fixe (Pin) os repositórios correspondentes no topo do seu perfil do GitHub para facilitar o acesso visual)*
+
+---
+
+<h2 align="left">🛠️ Tech Stack & Ferramentas</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,cpp,firebase,figma,git,github" />
+  <b>Front-end & UI/UX:</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" /><br><br>
+  <b>Back-end, Dados & Automação:</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,postgres,firebase" /><br>
+  <i>*Experiência ativa na construção de automações com n8n.</i>
 </p>
 
 ---
 
-<div width="50%" valign="top">
-  <h3>🚀 Atualmente estudando...</h3>
-  <ul>
-    <li>🤖 Inteligência Artificial & Automação</li>
-    <li>☕ Práticas de Clean Code</li>
-  </ul>
-</div>
-
----
-
-<div align="center">
-  <h3>🛠️ Daily Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,discord" />
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Atualmente estudando...</h3>
+      <ul>
+        <li>📈 Gestão de Projetos de TI (Metodologias e Certificações)</li>
+        <li>🔒 Segurança da Informação & Arquitetura Back-end</li>
+        <li>🤖 Automações avançadas (n8n e Python)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Daily Tools</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,discord" />
+      <br>
+      <i>*Também utilizo diariamente Trello e Google Workspace para gestão e organização.</i>
+    </td>
+  </tr>
+</table>
